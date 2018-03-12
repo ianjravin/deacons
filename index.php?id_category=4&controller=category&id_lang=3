@@ -1,0 +1,2658 @@
+<!doctype html>
+<html lang="es">
+
+  <head>
+    
+      
+<meta charset="utf-8">
+
+
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+
+
+  <title>Clothing</title>
+  <meta name="description" content="Choose from t-shirts, tops, blouses, short sleeves, long sleeves, tank tops, 3/4 sleeves and more.
+Find the cut that suits you the best!">
+  <meta name="keywords" content="">
+        <link rel="canonical" href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=4&amp;controller=category&amp;id_lang=3">
+  
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+<link rel="icon" type="image/vnd.microsoft.icon" href="/prestashop/PRS04/PRS040080/img/favicon.ico?1517464489">
+<link rel="shortcut icon" type="image/x-icon" href="/prestashop/PRS04/PRS040080/img/favicon.ico?1517464489">
+
+
+<!-- Codezeel added -->
+<link href="//fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800,900" rel="stylesheet">
+<link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet">
+<link href="//fonts.googleapis.com/css?family=Rubik:300,400,500,700,900" rel="stylesheet">
+
+
+    <link rel="stylesheet" href="https://codezeel.com/prestashop/PRS04/PRS040080/themes/Fashion/assets/cache/theme-94e90c.css" type="text/css" media="all">
+
+
+
+
+  
+
+  <script type="text/javascript">
+        var prestashop = {"cart":{"products":[],"totals":{"total":{"type":"total","label":"Total","amount":0,"value":"0,00\u00a0$"},"total_including_tax":{"type":"total","label":"Total (impuestos incl.)","amount":0,"value":"0,00\u00a0$"},"total_excluding_tax":{"type":"total","label":"Total (impuestos excl.)","amount":0,"value":"0,00\u00a0$"}},"subtotals":{"products":{"type":"products","label":"Subtotal","amount":0,"value":"0,00\u00a0$"},"discounts":null,"shipping":{"type":"shipping","label":"Transporte","amount":0,"value":"Gratis"},"tax":{"type":"tax","label":"Impuestos","amount":0,"value":"0,00\u00a0$"}},"products_count":0,"summary_string":"0 art\u00edculos","labels":{"tax_short":"(impuestos excl.)","tax_long":"(impuestos excluidos)"},"id_address_delivery":0,"id_address_invoice":0,"is_virtual":false,"vouchers":{"allowed":0,"added":[]},"discounts":[],"minimalPurchase":0,"minimalPurchaseRequired":""},"currency":{"name":"d\u00f3lar estadounidense","iso_code":"USD","iso_code_num":"840","sign":"$"},"customer":{"lastname":null,"firstname":null,"email":null,"last_passwd_gen":null,"birthday":null,"newsletter":null,"newsletter_date_add":null,"ip_registration_newsletter":null,"optin":null,"website":null,"company":null,"siret":null,"ape":null,"outstanding_allow_amount":0,"max_payment_days":0,"note":null,"is_guest":0,"id_shop":null,"id_shop_group":null,"id_default_group":1,"date_add":null,"date_upd":null,"reset_password_token":null,"reset_password_validity":null,"id":null,"is_logged":false,"gender":{"type":null,"name":null,"id":null},"risk":{"name":null,"color":null,"percent":null,"id":null},"addresses":[]},"language":{"name":"Espa\u00f1ol (Spanish)","iso_code":"es","locale":"es-ES","language_code":"es-es","is_rtl":"0","date_format_lite":"d\/m\/Y","date_format_full":"d\/m\/Y H:i:s","id":3},"page":{"title":"","canonical":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/index.php?id_category=4&controller=category&id_lang=3","meta":{"title":"Clothing","description":"Choose from t-shirts, tops, blouses, short sleeves, long sleeves, tank tops, 3\/4 sleeves and more.\nFind the cut that suits you the best!","keywords":"","robots":"index"},"page_name":"category","body_classes":{"lang-es":true,"lang-rtl":false,"country-US":true,"currency-USD":true,"layout-left-column":true,"page-category":true,"tax-display-disabled":true,"category-id-4":true,"category-Clothing":true,"category-id-parent-3":true,"category-depth-level-3":true},"admin_notifications":[]},"shop":{"name":"Fashion - Cloth Store","email":"sales@yourcompany.com","registration_number":"","long":false,"lat":false,"logo":"\/prestashop\/PRS04\/PRS040080\/img\/fashion-cloth-store-logo-1517464489.jpg","stores_icon":"\/prestashop\/PRS04\/PRS040080\/img\/logo_stores.png","favicon":"\/prestashop\/PRS04\/PRS040080\/img\/favicon.ico","favicon_update_time":"1517464489","address":{"formatted":"Fashion - Cloth Store<br>United States","address1":"","address2":"","postcode":"","city":"","state":null,"country":"United States"},"phone":"888-888-8888","fax":"123456"},"urls":{"base_url":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/","current_url":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/index.php?id_category=4&controller=category&id_lang=3","shop_domain_url":"https:\/\/codezeel.com","img_ps_url":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/img\/","img_cat_url":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/img\/c\/","img_lang_url":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/img\/l\/","img_prod_url":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/img\/p\/","img_manu_url":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/img\/m\/","img_sup_url":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/img\/su\/","img_ship_url":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/img\/s\/","img_store_url":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/img\/st\/","img_col_url":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/img\/co\/","img_url":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/themes\/Fashion\/assets\/img\/","css_url":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/themes\/Fashion\/assets\/css\/","js_url":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/themes\/Fashion\/assets\/js\/","pic_url":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/upload\/","pages":{"address":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/index.php?controller=address","addresses":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/index.php?controller=addresses","authentication":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/index.php?controller=authentication","cart":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/index.php?controller=cart","category":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/index.php?controller=category","cms":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/index.php?controller=cms","contact":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/index.php?controller=contact","discount":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/index.php?controller=discount","guest_tracking":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/index.php?controller=guest-tracking","history":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/index.php?controller=history","identity":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/index.php?controller=identity","index":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/index.php","my_account":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/index.php?controller=my-account","order_confirmation":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/index.php?controller=order-confirmation","order_detail":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/index.php?controller=order-detail","order_follow":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/index.php?controller=order-follow","order":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/index.php?controller=order","order_return":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/index.php?controller=order-return","order_slip":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/index.php?controller=order-slip","pagenotfound":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/index.php?controller=pagenotfound","password":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/index.php?controller=password","pdf_invoice":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/index.php?controller=pdf-invoice","pdf_order_return":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/index.php?controller=pdf-order-return","pdf_order_slip":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/index.php?controller=pdf-order-slip","prices_drop":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/index.php?controller=prices-drop","product":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/index.php?controller=product","search":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/index.php?controller=search","sitemap":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/index.php?controller=sitemap","stores":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/index.php?controller=stores","supplier":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/index.php?controller=supplier","register":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/index.php?controller=authentication&create_account=1","order_login":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/index.php?controller=order&login=1"},"theme_assets":"\/prestashop\/PRS04\/PRS040080\/themes\/Fashion\/assets\/","actions":{"logout":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/index.php?mylogout="}},"configuration":{"display_taxes_label":false,"low_quantity_threshold":3,"is_b2b":false,"is_catalog":false,"show_prices":true,"opt_in":{"partner":true},"quantity_discount":{"type":"discount","label":"Descuento"},"voucher_enabled":0,"return_enabled":0,"number_of_days_for_return":14},"field_required":[],"breadcrumb":{"links":[{"title":"Inicio","url":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/index.php"},{"title":"Fashion","url":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/index.php?id_category=3&controller=category&id_lang=3"},{"title":"Clothing","url":"https:\/\/codezeel.com\/prestashop\/PRS04\/PRS040080\/index.php?id_category=4&controller=category&id_lang=3"}],"count":3},"link":{"protocol_link":"https:\/\/","protocol_content":"https:\/\/"},"time":1520868025,"static_token":"3e57cdb2d477c51bb2faecd9ac212884","token":"c771f2a0f479af39fdc8158620594181"};
+      </script>
+
+
+
+  
+
+
+
+    
+  </head>
+
+  <body id="category" class="lang-es country-us currency-usd layout-left-column page-category tax-display-disabled category-id-4 category-clothing category-id-parent-3 category-depth-level-3">
+
+    
+    	
+    
+
+    <main id="page">
+      
+              
+
+      <header id="header">
+        
+          
+  <div class="header-banner">
+    
+  </div>
+
+
+
+<nav class="header-nav">
+	<div class="container">
+        
+		
+			<div class="left-nav">
+				
+			</div>
+			
+			<div class="right-nav">
+				
+			</div>
+		
+		
+		
+        
+	</div>
+</nav>
+
+
+
+	<div class="header-top">
+		<div class="container">
+			<div class="header_logo">
+				<a href="https://codezeel.com/prestashop/PRS04/PRS040080/">
+				<img class="logo img-responsive" src="/prestashop/PRS04/PRS040080/img/fashion-cloth-store-logo-1517464489.jpg" alt="Fashion - Cloth Store">
+				</a>
+			</div>
+			<div id="desktop_cart">
+  <div class="blockcart cart-preview inactive" data-refresh-url="//codezeel.com/prestashop/PRS04/PRS040080/index.php?fc=module&amp;module=ps_shoppingcart&amp;controller=ajax&amp;id_lang=3">
+    <div class="header blockcart-header dropdown js-dropdown">
+		 
+		<a class="shopping-cart" rel="nofollow" href="//codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=cart&amp;action=show" ></a>		
+			<span class="cart-content" data-toggle="dropdown">
+			<span class="hidden-sm-down cart-headding">Carro</span>
+			<span class="hidden-md-up mobile_count">0</span>
+			<span class="cart-products-count hidden-sm-down">0ít.<span class="value">  - 0,00 $</span></span></span>
+		
+
+		 
+		
+	      </div>
+  </div>
+</div>
+  <div class="user-info dropdown js-dropdown">
+  	<span class="user-info-title expand-more _gray-darker" data-toggle="dropdown"></span><span class="account-content" data-toggle="dropdown">
+	<span class="account_text">Mi cuenta</span>
+	<span class="account_detail">Get Option Here</span>
+	</span>
+    <ul class="dropdown-menu">
+	      <li>
+	  <a
+        class="dropdown-item"
+		href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=my-account"
+        title="Acceda a su cuenta de cliente"
+        rel="nofollow"
+      >
+        <span>Iniciar sesión</span>
+      </a>
+	  </li>
+    	</ul>
+  </div>
+<div id="czheadercmsblock" class="header-cms-block">  
+	<div class="header-cms">
+<div class="headercms-icon"></div>
+<div class="headercms-content">
+<div class="contact-info">Call Us Now</div>
+<div class="shop-time">Free: 0123-456-789</div>
+</div>
+</div>
+</div>
+<!-- Block search module TOP -->
+<div id="search_widget" class="col-lg-4 col-md-5 col-sm-12 search-widget" data-search-controller-url="//codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=search">
+	<span class="search_button"></span>
+	<div class="search_toggle">
+		<form method="get" action="//codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=search">
+			<input type="hidden" name="controller" value="search">
+			<input type="text" name="s" value="" placeholder="Enter Your Search..........">
+			<button type="submit">Buscar
+			</button>
+		</form>
+	</div>
+</div>
+<!-- /Block search module TOP -->
+				
+		</div>
+		
+		
+	</div>	
+	<div class="header-top-inner">
+		<div class="container">	
+				
+
+
+
+<div class="language-selector dropdown js-dropdown">
+	<span class="expand-more" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="language-dropdown">
+		<span><img class="lang-flag" src="https://codezeel.com/prestashop/PRS04/PRS040080/img/l/3.jpg"/></span>
+		<span class="language-title">Español</span>
+		<span class="dropdown-arrow"></span>
+	</span>
+	<ul class="dropdown-menu" aria-labelledby="language-dropdown">
+			<li >
+			<a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=4&controller=category&id_lang=1" class="dropdown-item"><img class="lang-flag" src="https://codezeel.com/prestashop/PRS04/PRS040080/img/l/1.jpg"/> English</a>
+		</li>
+			<li >
+			<a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=4&controller=category&id_lang=2" class="dropdown-item"><img class="lang-flag" src="https://codezeel.com/prestashop/PRS04/PRS040080/img/l/2.jpg"/> Français</a>
+		</li>
+			<li  class="current" >
+			<a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=4&controller=category&id_lang=3" class="dropdown-item"><img class="lang-flag" src="https://codezeel.com/prestashop/PRS04/PRS040080/img/l/3.jpg"/> Español</a>
+		</li>
+			<li >
+			<a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=4&controller=category&id_lang=4" class="dropdown-item"><img class="lang-flag" src="https://codezeel.com/prestashop/PRS04/PRS040080/img/l/4.jpg"/> Deutsch</a>
+		</li>
+			<li >
+			<a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=4&controller=category&id_lang=5" class="dropdown-item"><img class="lang-flag" src="https://codezeel.com/prestashop/PRS04/PRS040080/img/l/5.jpg"/> Italiano</a>
+		</li>
+			<li >
+			<a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=4&controller=category&id_lang=6" class="dropdown-item"><img class="lang-flag" src="https://codezeel.com/prestashop/PRS04/PRS040080/img/l/6.jpg"/> اللغة العربية</a>
+		</li>
+		</ul>
+</div>
+
+
+<div class="currency-selector dropdown js-dropdown">
+	
+	<span class="expand-more _gray-darker" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="currency-dropdown">
+		<span>$</span>
+		<span class="currency-title"> - dólar estadounidense </span>
+		<span class="expand-more dropdown-arrow"></span>
+	</span>
+	<ul class="dropdown-menu" aria-labelledby="currency-dropdown">
+			<li >
+			<a title="euro" rel="nofollow" href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=4&amp;controller=category&amp;id_lang=3&amp;SubmitCurrency=1&amp;id_currency=2" class="dropdown-item"><span>€ - </span>euro</a>
+		</li>
+			<li  class="current" >
+			<a title="dólar estadounidense" rel="nofollow" href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=4&amp;controller=category&amp;id_lang=3&amp;SubmitCurrency=1&amp;id_currency=1" class="dropdown-item"><span>$ - </span>dólar estadounidense</a>
+		</li>
+		</ul>
+</div>
+<div id="cznavcmsblock" class="nav-cms-block">  
+	<div class="flash_text"><a href="#"> Extra 20% OFF! </a></div>
+</div>
+
+
+<div class="menu-wrapper">
+	<div class="text-xs-left mobile hidden-lg-up mobile-menu">
+		<div class="menu-icon">
+			<div class="cat-title">Menú</div>		  
+		</div>
+		
+		<div id="mobile_top_menu_wrapper" class="row hidden-lg-up">
+			<div class="mobile-menu-inner">
+				<div class="menu-icon">
+					<div class="cat-title">Menú</div>		  
+				</div>
+				<div class="js-top-menu mobile" id="_mobile_top_menu"></div>
+			</div>
+		</div>
+	</div>
+	
+	 
+	<div class="menu col-lg-12 js-top-menu position-static hidden-md-down" id="_desktop_top_menu">
+		          <ul class="top-menu  container" id="top-menu" data-depth="0">
+                    <li class="category " id="category-3">
+                          <a
+                class="dropdown-item"
+                href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=3&amp;controller=category&amp;id_lang=3" data-depth="0"
+                              >
+                                  
+                                    <span class="pull-xs-right hidden-lg-up">
+                    <span data-target="#top_sub_menu_32381" data-toggle="collapse" class="navbar-toggler collapse-icons">
+                      <i class="fa-icon add">&nbsp;</i>
+                      <i class="fa-icon remove">&nbsp;</i>
+                    </span>
+                  </span>
+                                Fashion
+              </a>
+                            <div  class="popover sub-menu js-sub-menu collapse" id="top_sub_menu_32381">
+                          <ul class="top-menu  "  data-depth="1">
+                    <li class="category current  " id="category-4">
+                          <a
+                class="dropdown-item dropdown-submenu"
+                href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=4&amp;controller=category&amp;id_lang=3" data-depth="1"
+                              >
+                                  
+                                    <span class="pull-xs-right hidden-lg-up">
+                    <span data-target="#top_sub_menu_59510" data-toggle="collapse" class="navbar-toggler collapse-icons">
+                      <i class="fa-icon add">&nbsp;</i>
+                      <i class="fa-icon remove">&nbsp;</i>
+                    </span>
+                  </span>
+                                Clothing
+              </a>
+                            <div  class="collapse" id="top_sub_menu_59510">
+                          <ul class="top-menu  "  data-depth="2">
+                    <li class="category " id="category-5">
+                          <a
+                class="dropdown-item"
+                href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=5&amp;controller=category&amp;id_lang=3" data-depth="2"
+                              >
+                                Ethnic Wear
+              </a>
+                          </li>
+                    <li class="category " id="category-6">
+                          <a
+                class="dropdown-item"
+                href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=6&amp;controller=category&amp;id_lang=3" data-depth="2"
+                              >
+                                Sports Wear
+              </a>
+                          </li>
+                    <li class="category " id="category-7">
+                          <a
+                class="dropdown-item"
+                href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=7&amp;controller=category&amp;id_lang=3" data-depth="2"
+                              >
+                                Loungewear
+              </a>
+                          </li>
+                    <li class="category " id="category-18">
+                          <a
+                class="dropdown-item"
+                href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=18&amp;controller=category&amp;id_lang=3" data-depth="2"
+                              >
+                                Trousers
+              </a>
+                          </li>
+              </ul>
+    
+              				  </div>
+                          </li>
+                    <li class="category " id="category-8">
+                          <a
+                class="dropdown-item dropdown-submenu"
+                href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=8&amp;controller=category&amp;id_lang=3" data-depth="1"
+                              >
+                                  
+                                    <span class="pull-xs-right hidden-lg-up">
+                    <span data-target="#top_sub_menu_28804" data-toggle="collapse" class="navbar-toggler collapse-icons">
+                      <i class="fa-icon add">&nbsp;</i>
+                      <i class="fa-icon remove">&nbsp;</i>
+                    </span>
+                  </span>
+                                Accessories
+              </a>
+                            <div  class="collapse" id="top_sub_menu_28804">
+                          <ul class="top-menu  "  data-depth="2">
+                    <li class="category " id="category-9">
+                          <a
+                class="dropdown-item"
+                href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=9&amp;controller=category&amp;id_lang=3" data-depth="2"
+                              >
+                                Luggage &amp; Travel
+              </a>
+                          </li>
+                    <li class="category " id="category-10">
+                          <a
+                class="dropdown-item"
+                href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=10&amp;controller=category&amp;id_lang=3" data-depth="2"
+                              >
+                                Wallets &amp; Belts
+              </a>
+                          </li>
+                    <li class="category " id="category-11">
+                          <a
+                class="dropdown-item"
+                href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=11&amp;controller=category&amp;id_lang=3" data-depth="2"
+                              >
+                                Handbags
+              </a>
+                          </li>
+                    <li class="category " id="category-20">
+                          <a
+                class="dropdown-item"
+                href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=20&amp;controller=category&amp;id_lang=3" data-depth="2"
+                              >
+                                Backpacks
+              </a>
+                          </li>
+              </ul>
+    
+              				  </div>
+                          </li>
+                    <li class="category " id="category-19">
+                          <a
+                class="dropdown-item dropdown-submenu"
+                href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=19&amp;controller=category&amp;id_lang=3" data-depth="1"
+                              >
+                                  
+                                    <span class="pull-xs-right hidden-lg-up">
+                    <span data-target="#top_sub_menu_10436" data-toggle="collapse" class="navbar-toggler collapse-icons">
+                      <i class="fa-icon add">&nbsp;</i>
+                      <i class="fa-icon remove">&nbsp;</i>
+                    </span>
+                  </span>
+                                Footwear
+              </a>
+                            <div  class="collapse" id="top_sub_menu_10436">
+                          <ul class="top-menu  "  data-depth="2">
+                    <li class="category " id="category-21">
+                          <a
+                class="dropdown-item"
+                href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=21&amp;controller=category&amp;id_lang=3" data-depth="2"
+                              >
+                                Formal Shoes
+              </a>
+                          </li>
+                    <li class="category " id="category-22">
+                          <a
+                class="dropdown-item"
+                href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=22&amp;controller=category&amp;id_lang=3" data-depth="2"
+                              >
+                                Flip-Flops
+              </a>
+                          </li>
+                    <li class="category " id="category-23">
+                          <a
+                class="dropdown-item"
+                href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=23&amp;controller=category&amp;id_lang=3" data-depth="2"
+                              >
+                                Sandles
+              </a>
+                          </li>
+                    <li class="category " id="category-24">
+                          <a
+                class="dropdown-item"
+                href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=24&amp;controller=category&amp;id_lang=3" data-depth="2"
+                              >
+                                Sports Shoes
+              </a>
+                          </li>
+              </ul>
+    
+              				  </div>
+                          </li>
+              </ul>
+    
+              						<div class="menu-banners">
+					  						<div class="menu-banner">
+							<img src="https://codezeel.com/prestashop/PRS04/PRS040080/img/c/3-0_thumb.jpg" alt="" />
+						</div>
+					  					</div>
+							  </div>
+                          </li>
+                    <li class="category " id="category-12">
+                          <a
+                class="dropdown-item"
+                href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=12&amp;controller=category&amp;id_lang=3" data-depth="0"
+                              >
+                                Electronics
+              </a>
+                          </li>
+                    <li class="category " id="category-13">
+                          <a
+                class="dropdown-item"
+                href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=13&amp;controller=category&amp;id_lang=3" data-depth="0"
+                              >
+                                Baby &amp; Kids
+              </a>
+                          </li>
+                    <li class="category " id="category-14">
+                          <a
+                class="dropdown-item"
+                href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=14&amp;controller=category&amp;id_lang=3" data-depth="0"
+                              >
+                                Automobiles
+              </a>
+                          </li>
+                    <li class="link " id="lnk-blog">
+                          <a
+                class="dropdown-item"
+                href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?fc=module&amp;module=psblog&amp;controller=list&amp;id_lang=1" data-depth="0"
+                              >
+                                Blog
+              </a>
+                          </li>
+                    <li class="category " id="category-15">
+                          <a
+                class="dropdown-item"
+                href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=15&amp;controller=category&amp;id_lang=3" data-depth="0"
+                              >
+                                Jewellery
+              </a>
+                          </li>
+                    <li class="category " id="category-16">
+                          <a
+                class="dropdown-item"
+                href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=16&amp;controller=category&amp;id_lang=3" data-depth="0"
+                              >
+                                Furniture
+              </a>
+                          </li>
+                    <li class="category " id="category-17">
+                          <a
+                class="dropdown-item"
+                href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=17&amp;controller=category&amp;id_lang=3" data-depth="0"
+                              >
+                                Featured
+              </a>
+                          </li>
+              </ul>
+    
+	</div>
+</div>
+			</div>
+		</div>
+
+        
+      </header>
+
+      
+        
+<aside id="notifications">
+  <div class="container">
+    
+    
+    
+      </div>
+</aside>
+      
+      			
+	  
+	  		<nav data-depth="3" class="breadcrumb">
+   <div class="container">
+  <ol itemscope itemtype="http://schema.org/BreadcrumbList">
+          
+      <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <a itemprop="item" href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php">
+          <span itemprop="name">Inicio</span>
+        </a>
+        <meta itemprop="position" content="1">
+      </li>
+      
+          
+      <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <a itemprop="item" href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=3&amp;controller=category&amp;id_lang=3">
+          <span itemprop="name">Fashion</span>
+        </a>
+        <meta itemprop="position" content="2">
+      </li>
+      
+          
+      <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <a itemprop="item" href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=4&amp;controller=category&amp;id_lang=3">
+          <span itemprop="name">Clothing</span>
+        </a>
+        <meta itemprop="position" content="3">
+      </li>
+      
+      </ol>
+  </div>
+</nav>
+	  
+	  
+	  <section id="wrapper">
+		 
+		<div class="container">
+		  <div id="columns_inner">
+			  
+				<div id="left-column" class="col-xs-12" style="width:24.5%">
+				  					
+
+
+<div class="block-categories block">
+   <h4 class="block_title hidden-md-down">
+   		<a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=4&controller=category&id_lang=3">Clothing</a>
+   </h4>
+   <h4 class="block_title hidden-lg-up" data-target="#block_categories_toggle" data-toggle="collapse">
+		<a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=4&controller=category&id_lang=3">Clothing</a>
+		<span class="pull-xs-right">
+		  <span class="navbar-toggler collapse-icons">
+			<i class="fa-icon add"></i>
+			<i class="fa-icon remove"></i>
+		  </span>
+		</span>
+	</h4>
+   <div id="block_categories_toggle" class="block_content collapse">
+	   <ul class="category-top-menu">
+		<li>  <ul class="category-sub-menu"><li data-depth="0"><a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=5&amp;controller=category&amp;id_lang=3">Ethnic Wear</a></li><li data-depth="0"><a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=6&amp;controller=category&amp;id_lang=3">Sports Wear</a></li><li data-depth="0"><a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=7&amp;controller=category&amp;id_lang=3">Loungewear</a></li><li data-depth="0"><a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=18&amp;controller=category&amp;id_lang=3">Trousers</a></li></ul></li>
+	  </ul>
+  </div>
+</div>
+<div id="search_filters_wrapper" class="hidden-md-down block"> <!-- hidden-sm-down -->
+  <div id="search_filter_controls" class="hidden-lg-up"> <!--  -->
+      <span id="_mobile_search_filters_clear_all"></span> 
+      <button class="btn btn-secondary ok">
+        <i class="material-icons">&#xE876;</i>
+        OK
+      </button>
+  </div>
+  <div id="search_filters">
+	
+		<h4 class="block_title">Filtrar por</h4>
+	
+	
+    <div class="block_content">
+		
+			<div id="_desktop_search_filters_clear_all" class="hidden-md-down clear-all-wrapper">
+			  <button data-search-url="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3" class="btn btn-tertiary js-search-filters-clear-all">
+				<i class="material-icons">&#xE14C;</i>
+				Borrar todo
+			  </button>
+			</div>
+		
+	
+				  			<section class="facet">
+			  <h1 class="h6 facet-title hidden-md-down">Categorías</h1>
+			  			  			  							  							  							  							  			  <div class="title hidden-lg-up" data-target="#facet_58259" data-toggle="collapse">
+				<h1 class="h6 facet-title">Categorías</h1>
+				<span class="pull-xs-right">
+				  <span class="navbar-toggler collapse-icons">
+					<i class="fa-icon add"></i>
+					<i class="fa-icon remove"></i>
+				  </span>
+				</span>
+			  </div>
+	
+			  
+				
+					<ul id="facet_58259" class="collapse">
+                												  <li>
+                      <label class="facet-label" for="facet_input_58259_0">
+							  								<span class="custom-checkbox">
+								  <input
+                              id="facet_input_58259_0"
+									data-search-url="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;q=Categor%C3%ADas-Ethnic+Wear"
+									type="checkbox"
+																	  >
+								  									<span  class="ps-shown-by-js" ><i class="material-icons checkbox-checked">&#xE5CA;</i></span>
+								  								</span>
+							  		
+							  <a
+								href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;q=Categor%C3%ADas-Ethnic+Wear"
+								class="_gray-darker search-link js-search-link"
+								rel="nofollow"
+							  >
+								Ethnic Wear
+																  <span class="magnitude">(14)</span>
+															  </a>
+							</label>
+						  </li>
+											  												  <li>
+                      <label class="facet-label" for="facet_input_58259_1">
+							  								<span class="custom-checkbox">
+								  <input
+                              id="facet_input_58259_1"
+									data-search-url="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;q=Categor%C3%ADas-Sports+Wear"
+									type="checkbox"
+																	  >
+								  									<span  class="ps-shown-by-js" ><i class="material-icons checkbox-checked">&#xE5CA;</i></span>
+								  								</span>
+							  		
+							  <a
+								href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;q=Categor%C3%ADas-Sports+Wear"
+								class="_gray-darker search-link js-search-link"
+								rel="nofollow"
+							  >
+								Sports Wear
+																  <span class="magnitude">(15)</span>
+															  </a>
+							</label>
+						  </li>
+											  												  <li>
+                      <label class="facet-label" for="facet_input_58259_2">
+							  								<span class="custom-checkbox">
+								  <input
+                              id="facet_input_58259_2"
+									data-search-url="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;q=Categor%C3%ADas-Loungewear"
+									type="checkbox"
+																	  >
+								  									<span  class="ps-shown-by-js" ><i class="material-icons checkbox-checked">&#xE5CA;</i></span>
+								  								</span>
+							  		
+							  <a
+								href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;q=Categor%C3%ADas-Loungewear"
+								class="_gray-darker search-link js-search-link"
+								rel="nofollow"
+							  >
+								Loungewear
+																  <span class="magnitude">(15)</span>
+															  </a>
+							</label>
+						  </li>
+											  												  <li>
+                      <label class="facet-label" for="facet_input_58259_3">
+							  								<span class="custom-checkbox">
+								  <input
+                              id="facet_input_58259_3"
+									data-search-url="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;q=Categor%C3%ADas-Trousers"
+									type="checkbox"
+																	  >
+								  									<span  class="ps-shown-by-js" ><i class="material-icons checkbox-checked">&#xE5CA;</i></span>
+								  								</span>
+							  		
+							  <a
+								href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;q=Categor%C3%ADas-Trousers"
+								class="_gray-darker search-link js-search-link"
+								rel="nofollow"
+							  >
+								Trousers
+																  <span class="magnitude">(14)</span>
+															  </a>
+							</label>
+						  </li>
+											  					</ul>
+				
+			  
+							</section>
+		  				  			<section class="facet">
+			  <h1 class="h6 facet-title hidden-md-down">Precio</h1>
+			  			  			  							  							  							  							  							  			  <div class="title hidden-lg-up" data-target="#facet_61630" data-toggle="collapse">
+				<h1 class="h6 facet-title">Precio</h1>
+				<span class="pull-xs-right">
+				  <span class="navbar-toggler collapse-icons">
+					<i class="fa-icon add"></i>
+					<i class="fa-icon remove"></i>
+				  </span>
+				</span>
+			  </div>
+	
+			  
+				
+					<ul id="facet_61630" class="collapse">
+                												  <li>
+                      <label class="facet-label" for="facet_input_61630_0">
+							  								<span class="custom-radio">
+								  <input
+                              id="facet_input_61630_0"
+									data-search-url="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;q=Precio-%24-75-88"
+									type="radio"
+									name="filter Precio"
+																	  >
+								  <span  class="ps-shown-by-js" ></span>
+								</span>
+							  		
+							  <a
+								href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;q=Precio-%24-75-88"
+								class="_gray-darker search-link js-search-link"
+								rel="nofollow"
+							  >
+								75,00 $ - 88,00 $
+																  <span class="magnitude">(7)</span>
+															  </a>
+							</label>
+						  </li>
+											  												  <li>
+                      <label class="facet-label" for="facet_input_61630_1">
+							  								<span class="custom-radio">
+								  <input
+                              id="facet_input_61630_1"
+									data-search-url="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;q=Precio-%24-93-97"
+									type="radio"
+									name="filter Precio"
+																	  >
+								  <span  class="ps-shown-by-js" ></span>
+								</span>
+							  		
+							  <a
+								href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;q=Precio-%24-93-97"
+								class="_gray-darker search-link js-search-link"
+								rel="nofollow"
+							  >
+								93,00 $ - 97,00 $
+																  <span class="magnitude">(1)</span>
+															  </a>
+							</label>
+						  </li>
+											  												  <li>
+                      <label class="facet-label" for="facet_input_61630_2">
+							  								<span class="custom-radio">
+								  <input
+                              id="facet_input_61630_2"
+									data-search-url="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;q=Precio-%24-92-102"
+									type="radio"
+									name="filter Precio"
+																	  >
+								  <span  class="ps-shown-by-js" ></span>
+								</span>
+							  		
+							  <a
+								href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;q=Precio-%24-92-102"
+								class="_gray-darker search-link js-search-link"
+								rel="nofollow"
+							  >
+								92,00 $ - 102,00 $
+																  <span class="magnitude">(4)</span>
+															  </a>
+							</label>
+						  </li>
+											  												  <li>
+                      <label class="facet-label" for="facet_input_61630_3">
+							  								<span class="custom-radio">
+								  <input
+                              id="facet_input_61630_3"
+									data-search-url="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;q=Precio-%24-105-109"
+									type="radio"
+									name="filter Precio"
+																	  >
+								  <span  class="ps-shown-by-js" ></span>
+								</span>
+							  		
+							  <a
+								href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;q=Precio-%24-105-109"
+								class="_gray-darker search-link js-search-link"
+								rel="nofollow"
+							  >
+								105,00 $ - 109,00 $
+																  <span class="magnitude">(1)</span>
+															  </a>
+							</label>
+						  </li>
+											  												  <li>
+                      <label class="facet-label" for="facet_input_61630_4">
+							  								<span class="custom-radio">
+								  <input
+                              id="facet_input_61630_4"
+									data-search-url="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;q=Precio-%24-110-116"
+									type="radio"
+									name="filter Precio"
+																	  >
+								  <span  class="ps-shown-by-js" ></span>
+								</span>
+							  		
+							  <a
+								href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;q=Precio-%24-110-116"
+								class="_gray-darker search-link js-search-link"
+								rel="nofollow"
+							  >
+								110,00 $ - 116,00 $
+																  <span class="magnitude">(2)</span>
+															  </a>
+							</label>
+						  </li>
+											  					</ul>
+				
+			  
+							</section>
+		  				  			<section class="facet">
+			  <h1 class="h6 facet-title hidden-md-down">Color</h1>
+			  			  			  							  							  							  							  							  							  							  			  <div class="title hidden-lg-up" data-target="#facet_20749" data-toggle="collapse">
+				<h1 class="h6 facet-title">Color</h1>
+				<span class="pull-xs-right">
+				  <span class="navbar-toggler collapse-icons">
+					<i class="fa-icon add"></i>
+					<i class="fa-icon remove"></i>
+				  </span>
+				</span>
+			  </div>
+	
+			  
+				
+					<ul id="facet_20749" class="collapse">
+                												  <li>
+                      <label class="facet-label" for="facet_input_20749_0">
+							  								<span class="custom-checkbox">
+								  <input
+                              id="facet_input_20749_0"
+									data-search-url="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;q=Color-Gris"
+									type="checkbox"
+																	  >
+								  									<span class="color" style="background-color:#AAB2BD"></span>
+																	</span>
+							  		
+							  <a
+								href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;q=Color-Gris"
+								class="_gray-darker search-link js-search-link"
+								rel="nofollow"
+							  >
+								Gris
+																  <span class="magnitude">(3)</span>
+															  </a>
+							</label>
+						  </li>
+											  												  <li>
+                      <label class="facet-label" for="facet_input_20749_1">
+							  								<span class="custom-checkbox">
+								  <input
+                              id="facet_input_20749_1"
+									data-search-url="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;q=Color-Blanco"
+									type="checkbox"
+																	  >
+								  									<span class="color" style="background-color:#ffffff"></span>
+																	</span>
+							  		
+							  <a
+								href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;q=Color-Blanco"
+								class="_gray-darker search-link js-search-link"
+								rel="nofollow"
+							  >
+								Blanco
+																  <span class="magnitude">(6)</span>
+															  </a>
+							</label>
+						  </li>
+											  												  <li>
+                      <label class="facet-label" for="facet_input_20749_2">
+							  								<span class="custom-checkbox">
+								  <input
+                              id="facet_input_20749_2"
+									data-search-url="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;q=Color-Negro"
+									type="checkbox"
+																	  >
+								  									<span class="color" style="background-color:#434A54"></span>
+																	</span>
+							  		
+							  <a
+								href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;q=Color-Negro"
+								class="_gray-darker search-link js-search-link"
+								rel="nofollow"
+							  >
+								Negro
+																  <span class="magnitude">(5)</span>
+															  </a>
+							</label>
+						  </li>
+											  												  <li>
+                      <label class="facet-label" for="facet_input_20749_3">
+							  								<span class="custom-checkbox">
+								  <input
+                              id="facet_input_20749_3"
+									data-search-url="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;q=Color-Naranja"
+									type="checkbox"
+																	  >
+								  									<span class="color" style="background-color:#F39C11"></span>
+																	</span>
+							  		
+							  <a
+								href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;q=Color-Naranja"
+								class="_gray-darker search-link js-search-link"
+								rel="nofollow"
+							  >
+								Naranja
+																  <span class="magnitude">(4)</span>
+															  </a>
+							</label>
+						  </li>
+											  												  <li>
+                      <label class="facet-label" for="facet_input_20749_4">
+							  								<span class="custom-checkbox">
+								  <input
+                              id="facet_input_20749_4"
+									data-search-url="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;q=Color-Azul"
+									type="checkbox"
+																	  >
+								  									<span class="color" style="background-color:#5D9CEC"></span>
+																	</span>
+							  		
+							  <a
+								href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;q=Color-Azul"
+								class="_gray-darker search-link js-search-link"
+								rel="nofollow"
+							  >
+								Azul
+																  <span class="magnitude">(10)</span>
+															  </a>
+							</label>
+						  </li>
+											  												  <li>
+                      <label class="facet-label" for="facet_input_20749_5">
+							  								<span class="custom-checkbox">
+								  <input
+                              id="facet_input_20749_5"
+									data-search-url="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;q=Color-Verde"
+									type="checkbox"
+																	  >
+								  									<span class="color" style="background-color:#A0D468"></span>
+																	</span>
+							  		
+							  <a
+								href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;q=Color-Verde"
+								class="_gray-darker search-link js-search-link"
+								rel="nofollow"
+							  >
+								Verde
+																  <span class="magnitude">(11)</span>
+															  </a>
+							</label>
+						  </li>
+											  												  <li>
+                      <label class="facet-label" for="facet_input_20749_6">
+							  								<span class="custom-checkbox">
+								  <input
+                              id="facet_input_20749_6"
+									data-search-url="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;q=Color-Amarillo"
+									type="checkbox"
+																	  >
+								  									<span class="color" style="background-color:#F1C40F"></span>
+																	</span>
+							  		
+							  <a
+								href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;q=Color-Amarillo"
+								class="_gray-darker search-link js-search-link"
+								rel="nofollow"
+							  >
+								Amarillo
+																  <span class="magnitude">(6)</span>
+															  </a>
+							</label>
+						  </li>
+											  					</ul>
+				
+			  
+							</section>
+		  			</div>
+</div>
+
+</div>
+
+	<div id="czleftbanner">
+		<ul>
+							<li class="slide czleftbanner-container">
+					<a href="#" title="LeftBanner 1">
+						<img src="https://codezeel.com/prestashop/PRS04/PRS040080/modules/cz_leftbanner/views/img/left-banner-1.jpg" alt="LeftBanner 1" title="LeftBanner 1" />
+					</a>				
+				</li>
+					</ul>
+	</div>			
+
+<div id="newproduct_block" class="block products-block">
+  	<h4 class="block_title hidden-md-down">
+		 Nuevos productos
+	</h4>
+	<h4 class="block_title hidden-lg-up" data-target="#newproduct_block_toggle" data-toggle="collapse">
+		 Nuevos productos
+		<span class="pull-xs-right">
+		  <span class="navbar-toggler collapse-icons">
+			<i class="fa-icon add"></i>
+			<i class="fa-icon remove"></i>
+		  </span>
+		</span>
+	</h4>
+	<div id="newproduct_block_toggle" class="block_content  collapse">
+		 
+		<ul class="products">
+							<li class="product_item">
+				 
+<div class="product-miniature js-product-miniature" data-id-product="15" data-id-product-attribute="268" itemscope itemtype="http://schema.org/Product">
+	<div class="product_thumbnail">
+		
+		  <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=15&amp;id_product_attribute=268&amp;rewrite=printed-summer-dress&amp;controller=product&amp;id_lang=3#/1-talla-s/8-color-blanco/22-talla_de_calzado-39" class="thumbnail product-image">
+			<img
+			  src = "https://codezeel.com/prestashop/PRS04/PRS040080/img/p/1/0/9/109-small_default.jpg"
+			  alt = "Accusantium Voluptatem"
+			>
+		  </a>
+		 
+	</div>
+
+	<div class="product-info">
+		
+			<h1 class="h3 product-title" itemprop="name"><a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=15&amp;id_product_attribute=268&amp;rewrite=printed-summer-dress&amp;controller=product&amp;id_lang=3#/1-talla-s/8-color-blanco/22-talla_de_calzado-39">Accusantium Voluptatem</a></h1>
+		
+	
+		
+						  <div class="product-price-and-shipping">
+							
+				
+			
+				<span itemprop="price" class="price">80,00 $</span>
+			
+				
+			
+				
+			  </div>
+					
+	</div>
+</div>	
+
+
+				</li>
+							<li class="product_item">
+				 
+<div class="product-miniature js-product-miniature" data-id-product="14" data-id-product-attribute="260" itemscope itemtype="http://schema.org/Product">
+	<div class="product_thumbnail">
+		
+		  <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=14&amp;id_product_attribute=260&amp;rewrite=printed-chiffon-dress&amp;controller=product&amp;id_lang=3#/15-color-verde" class="thumbnail product-image">
+			<img
+			  src = "https://codezeel.com/prestashop/PRS04/PRS040080/img/p/1/0/3/103-small_default.jpg"
+			  alt = "Occasion praesentium"
+			>
+		  </a>
+		 
+	</div>
+
+	<div class="product-info">
+		
+			<h1 class="h3 product-title" itemprop="name"><a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=14&amp;id_product_attribute=260&amp;rewrite=printed-chiffon-dress&amp;controller=product&amp;id_lang=3#/15-color-verde">Occasion praesentium</a></h1>
+		
+	
+		
+						  <div class="product-price-and-shipping">
+								  
+			
+				  <span class="regular-price">99,00 $</span>
+				  					<span class="discount-percentage">-3%</span>
+				  							
+				
+			
+				<span itemprop="price" class="price">96,03 $</span>
+			
+				
+			
+				
+			  </div>
+					
+	</div>
+</div>	
+
+
+				</li>
+							<li class="product_item">
+				 
+<div class="product-miniature js-product-miniature" data-id-product="13" data-id-product-attribute="241" itemscope itemtype="http://schema.org/Product">
+	<div class="product_thumbnail">
+		
+		  <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=13&amp;id_product_attribute=241&amp;rewrite=printed-summer-dress&amp;controller=product&amp;id_lang=3#/1-talla-s/8-color-blanco" class="thumbnail product-image">
+			<img
+			  src = "https://codezeel.com/prestashop/PRS04/PRS040080/img/p/9/7/97-small_default.jpg"
+			  alt = "Laudant doloremque"
+			>
+		  </a>
+		 
+	</div>
+
+	<div class="product-info">
+		
+			<h1 class="h3 product-title" itemprop="name"><a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=13&amp;id_product_attribute=241&amp;rewrite=printed-summer-dress&amp;controller=product&amp;id_lang=3#/1-talla-s/8-color-blanco">Laudant doloremque</a></h1>
+		
+	
+		
+						  <div class="product-price-and-shipping">
+								  
+			
+				  <span class="regular-price">91,00 $</span>
+				  							
+				
+			
+				<span itemprop="price" class="price">85,00 $</span>
+			
+				
+			
+				
+			  </div>
+					
+	</div>
+</div>	
+
+
+				</li>
+				
+		</ul>
+		 
+		<div class="view_more">
+			<a class="all-product-link btn btn-primary" href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=new-products">
+				All new products
+			</a>
+		</div>
+		
+	</div>
+</div>
+
+
+<!-- Block categories module -->
+        <div id="categories_blog_menu" class="block blog-menu">
+    	<h4 class="block_title hidden-md-down">
+	  		Categorías de blog		</h4>
+		<h4 class="block_title hidden-lg-up" data-target="#categories_blog_toggle" data-toggle="collapse">
+			Categorías de blog			<span class="pull-xs-right">
+			  <span class="navbar-toggler collapse-icons">
+				<i class="fa-icon add"></i>
+				<i class="fa-icon remove"></i>
+			  </span>
+			</span>
+		</h4>
+        <div id="categories_blog_toggle" class="block_content  collapse">
+            <ul class="level1 tree dhtml "><li id="list_3" class=" "><a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?fc=module&module=psblog&id=3&controller=category&id_lang=3" title="Vestibulum consequat"><span>Vestibulum consequat</span></a> <ul class="level2 "><li id="list_4" class=" "><a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?fc=module&module=psblog&id=4&controller=category&id_lang=3" title="Pellentesque condimentum"><span>Pellentesque condimentum</span></a> </li><li id="list_5" class=" "><a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?fc=module&module=psblog&id=5&controller=category&id_lang=3" title="Suspendisse turpis"><span>Suspendisse turpis</span></a> </li></ul></li></ul>
+        </div>
+    </div>
+        <!-- /Block categories module -->
+
+				  				</div>
+			  
+
+			  
+  <div id="content-wrapper" class="left-column col-xs-12 col-sm-8 col-md-9" style="width:75.5%">
+
+    
+  <section id="main">
+
+    
+	
+	<input id="getCartLink" name="getCartLink" value="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=cart" type="hidden">
+	<input id="getTokenId" name="getTokenId" value="3e57cdb2d477c51bb2faecd9ac212884" type="hidden">
+
+	<div class="block-category card card-block ">
+					<div class="category-cover">
+				<img src="https://codezeel.com/prestashop/PRS04/PRS040080/img/c/4-category_default.jpg" alt="">
+			</div>
+				<h1 class="h1">Clothing</h1>
+					<div id="category-description"><p>Choose from t-shirts, tops, blouses, short sleeves, long sleeves, tank tops, 3/4 sleeves and more.</p>
+<p>Find the cut that suits you the best!</p></div>
+			</div>
+	
+    		<div id="subcategories">
+			<p class="subcategory-heading">Subcategories</p>
+			<ul class="clearfix">
+									<li>
+						<div class="subcategory-image">
+							<a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=5&amp;controller=category&amp;id_lang=3" title="Ethnic Wear" class="img">
+																	<img class="replace-2x" src="https://codezeel.com/prestashop/PRS04/PRS040080/img/c/5-category_default.jpg" alt="Ethnic Wear"/>
+															</a>
+						</div>
+						<h5><a class="subcategory-name" href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=5&amp;controller=category&amp;id_lang=3">Ethnic Wear</a></h5>
+						
+					</li>
+									<li>
+						<div class="subcategory-image">
+							<a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=6&amp;controller=category&amp;id_lang=3" title="Sports Wear" class="img">
+																	<img class="replace-2x" src="https://codezeel.com/prestashop/PRS04/PRS040080/img/c/6-category_default.jpg" alt="Sports Wear"/>
+															</a>
+						</div>
+						<h5><a class="subcategory-name" href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=6&amp;controller=category&amp;id_lang=3">Sports Wear</a></h5>
+						
+					</li>
+									<li>
+						<div class="subcategory-image">
+							<a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=7&amp;controller=category&amp;id_lang=3" title="Loungewear" class="img">
+																	<img class="replace-2x" src="https://codezeel.com/prestashop/PRS04/PRS040080/img/c/7-category_default.jpg" alt="Loungewear"/>
+															</a>
+						</div>
+						<h5><a class="subcategory-name" href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=7&amp;controller=category&amp;id_lang=3">Loungewear</a></h5>
+						
+					</li>
+									<li>
+						<div class="subcategory-image">
+							<a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=18&amp;controller=category&amp;id_lang=3" title="Trousers" class="img">
+																	<img class="replace-2x" src="https://codezeel.com/prestashop/PRS04/PRS040080/img/c/es-default-category_default.jpg" alt="Trousers"/>
+															</a>
+						</div>
+						<h5><a class="subcategory-name" href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_category=18&amp;controller=category&amp;id_lang=3">Trousers</a></h5>
+						
+					</li>
+							</ul>
+		</div>
+	
+
+    <section id="products">
+      
+        <div id="">
+          
+            <div id="js-product-list-top" class="products-selection">
+  
+  <div class="col-md-6 hidden-md-down total-products">
+    <ul class="display hidden-xs grid_list">
+		<li id="grid"><a href="#" title="Grid">Grid</a></li>
+		<li id="list"><a href="#" title="Lista">Lista</a></li>
+	</ul>
+	
+	      <p>Hay 15 productos.</p>
+      </div>
+  
+  <div class="col-md-6">
+    <div class="row sort-by-row">
+
+      
+        <span class="col-sm-3 col-md-3 hidden-sm-down sort-by">Ordenar por:</span>
+<div class="col-sm-9 col-xs-8 col-md-9 products-sort-order dropdown">
+  <a class="select-title" rel="nofollow" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Relevancia    <i class="material-icons pull-xs-right">&#xE5C5;</i>
+  </a>
+  <div class="dropdown-menu">
+          <a
+        rel="nofollow"
+        href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;order=product.position.asc"
+        class="select-list current js-search-link"
+      >
+        Relevancia
+      </a>
+          <a
+        rel="nofollow"
+        href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;order=product.name.asc"
+        class="select-list js-search-link"
+      >
+        Nombre, A a Z
+      </a>
+          <a
+        rel="nofollow"
+        href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;order=product.name.desc"
+        class="select-list js-search-link"
+      >
+        Nombre, Z a A
+      </a>
+          <a
+        rel="nofollow"
+        href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;order=product.price.asc"
+        class="select-list js-search-link"
+      >
+        Precio: de más bajo a más alto
+      </a>
+          <a
+        rel="nofollow"
+        href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;order=product.price.desc"
+        class="select-list js-search-link"
+      >
+        Precio, de más alto a más bajo
+      </a>
+      </div>
+</div>
+      
+
+              <div class="col-sm-3 col-xs-4 hidden-lg-up filter-button">
+          <button id="search_filter_toggler" class="btn btn-secondary">
+            Filtrar
+          </button>
+        </div>
+          </div>
+  </div>
+  <div class="col-sm-12 hidden-lg-up showing">
+    Mostrando 1-9 de 15 artículo(s)
+  </div>
+</div>
+          
+        </div>
+
+        
+          <div id="" class="hidden-sm-down">
+            <section id="js-active-search-filters" class="hide">
+  </section>
+
+          </div>
+        
+
+        <div id="">
+          
+            <div id="js-product-list">
+	<div class="products row">
+		<ul class="product_list grid gridcount"> <!-- removed product_grid-->
+							
+					<li class="product_item col-xs-12 col-sm-6 col-md-6 col-lg-4">
+						
+<div class="product-miniature js-product-miniature" data-id-product="1" data-id-product-attribute="49" itemscope itemtype="http://schema.org/Product">
+  <div class="thumbnail-container">
+    
+      <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=1&amp;id_product_attribute=49&amp;rewrite=faded-short-sleeves-tshirt&amp;controller=product&amp;id_lang=3#/1-talla-s/13-color-naranja" class="thumbnail product-thumbnail">
+        <img
+          src = "https://codezeel.com/prestashop/PRS04/PRS040080/img/p/7/3/73-home_default.jpg"
+          alt = "Consectetur Hampden"
+          data-full-size-image-url = "https://codezeel.com/prestashop/PRS04/PRS040080/img/p/7/3/73-large_default.jpg"
+        >
+		
+	<img class="fliper_image img-responsive" src="https://codezeel.com/prestashop/PRS04/PRS040080/img/p/7/4/74-home_default.jpg" data-full-size-image-url="https://codezeel.com/prestashop/PRS04/PRS040080/img/p/7/4/74-large_default.jpg" alt="" />
+
+      </a>
+    
+	
+		<a href="#" class="quick-view" data-link-action="quickview">
+			<i class="material-icons search">&#xE417;</i> Vista rápida
+		</a>
+	
+	
+	  <ul class="product-flags">
+				  <li class="new">Novedad</li>
+			  </ul>
+	
+	<div class="highlighted-informations hidden-sm-down">
+	  
+				  <div class="variant-links">
+      <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=1&amp;id_product_attribute=274&amp;rewrite=faded-short-sleeves-tshirt&amp;controller=product&amp;id_lang=3#/11-color-negro"
+       class="color"
+       title="Negro"
+       
+       style="background-color: #434A54"           ><span class="sr-only">Negro</span></a>
+      <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=1&amp;id_product_attribute=50&amp;rewrite=faded-short-sleeves-tshirt&amp;controller=product&amp;id_lang=3#/2-talla-m/13-color-naranja"
+       class="color"
+       title="Naranja"
+       
+       style="background-color: #F39C11"           ><span class="sr-only">Naranja</span></a>
+      <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=1&amp;id_product_attribute=52&amp;rewrite=faded-short-sleeves-tshirt&amp;controller=product&amp;id_lang=3#/1-talla-s/15-color-verde"
+       class="color"
+       title="Verde"
+       
+       style="background-color: #A0D468"           ><span class="sr-only">Verde</span></a>
+    <span class="js-count count"></span>
+</div>
+			  
+	  
+	  
+		<span class="product-availability">
+		  						  <span class="product-available">
+			  <i class="material-icons">&#xE5CA;</i>
+						In stock
+			</span>
+		  		</span>
+	  
+	</div>				
+ </div>
+
+    <div class="product-description">
+      
+        <h3 class="h3 product-title" itemprop="name"><a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=1&amp;id_product_attribute=49&amp;rewrite=faded-short-sleeves-tshirt&amp;controller=product&amp;id_lang=3#/1-talla-s/13-color-naranja">Consectetur Hampden</a></h3 >
+      
+
+      
+                  <div class="product-price-and-shipping">
+            
+            
+
+            <span itemprop="price" class="price">98,00 $</span>
+
+            
+
+            
+          </div>
+              
+	  
+	  
+		
+		  <div class="product-detail" itemprop="description"><p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi.</p></div>
+		
+		
+							<div class="product-actions">
+					<form action="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=cart" method="post" class="add-to-cart-or-refresh">
+						<input type="hidden" name="token" id="tokenId" value="3e57cdb2d477c51bb2faecd9ac212884">
+						<input type="hidden" name="id_product" value="1" class="product_page_product_id">
+						<input type="hidden" name="id_customization" value="0" class="product_customization_id">
+						<input type="hidden" name="qty" value="1">
+						<button class="btn btn-primary add-to-cart" data-button-action="add-to-cart" type="submit" >
+							<span>Añadir al carrito</span>
+						</button>
+					</form>
+				</div>
+					 
+		
+			
+		
+		
+	</div>
+</div>
+					</li>
+				
+							
+					<li class="product_item col-xs-12 col-sm-6 col-md-6 col-lg-4">
+						
+<div class="product-miniature js-product-miniature" data-id-product="2" data-id-product-attribute="56" itemscope itemtype="http://schema.org/Product">
+  <div class="thumbnail-container">
+    
+      <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=2&amp;id_product_attribute=56&amp;rewrite=blouse&amp;controller=product&amp;id_lang=3#/1-talla-s/14-color-azul" class="thumbnail product-thumbnail">
+        <img
+          src = "https://codezeel.com/prestashop/PRS04/PRS040080/img/p/2/5/25-home_default.jpg"
+          alt = "Exercitat Virginia"
+          data-full-size-image-url = "https://codezeel.com/prestashop/PRS04/PRS040080/img/p/2/5/25-large_default.jpg"
+        >
+		
+	<img class="fliper_image img-responsive" src="https://codezeel.com/prestashop/PRS04/PRS040080/img/p/2/6/26-home_default.jpg" data-full-size-image-url="https://codezeel.com/prestashop/PRS04/PRS040080/img/p/2/6/26-large_default.jpg" alt="" />
+
+      </a>
+    
+	
+		<a href="#" class="quick-view" data-link-action="quickview">
+			<i class="material-icons search">&#xE417;</i> Vista rápida
+		</a>
+	
+	
+	  <ul class="product-flags">
+				  <li class="on-sale">¡En oferta!</li>
+				  <li class="new">Novedad</li>
+			  </ul>
+	
+	<div class="highlighted-informations hidden-sm-down">
+	  
+				  <div class="variant-links">
+      <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=2&amp;id_product_attribute=58&amp;rewrite=blouse&amp;controller=product&amp;id_lang=3#/2-talla-m/8-color-blanco"
+       class="color"
+       title="Blanco"
+       
+       style="background-color: #ffffff"           ><span class="sr-only">Blanco</span></a>
+      <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=2&amp;id_product_attribute=55&amp;rewrite=blouse&amp;controller=product&amp;id_lang=3#/2-talla-m/14-color-azul"
+       class="color"
+       title="Azul"
+       
+       style="background-color: #5D9CEC"           ><span class="sr-only">Azul</span></a>
+      <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=2&amp;id_product_attribute=61&amp;rewrite=blouse&amp;controller=product&amp;id_lang=3#/2-talla-m/16-color-amarillo"
+       class="color"
+       title="Amarillo"
+       
+       style="background-color: #F1C40F"           ><span class="sr-only">Amarillo</span></a>
+    <span class="js-count count"></span>
+</div>
+			  
+	  
+	  
+		<span class="product-availability">
+		  						  <span class="product-available">
+			  <i class="material-icons">&#xE5CA;</i>
+						In stock
+			</span>
+		  		</span>
+	  
+	</div>				
+ </div>
+
+    <div class="product-description">
+      
+        <h3 class="h3 product-title" itemprop="name"><a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=2&amp;id_product_attribute=56&amp;rewrite=blouse&amp;controller=product&amp;id_lang=3#/1-talla-s/14-color-azul">Exercitat Virginia</a></h3 >
+      
+
+      
+                  <div class="product-price-and-shipping">
+                          
+
+              <span class="regular-price">87,00 $</span>
+                              <span class="discount-percentage">-5%</span>
+                          
+            
+
+            <span itemprop="price" class="price">82,65 $</span>
+
+            
+
+            
+          </div>
+              
+	  
+	  
+		
+		  <div class="product-detail" itemprop="description"><p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias.</p></div>
+		
+		
+							<div class="product-actions">
+					<form action="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=cart" method="post" class="add-to-cart-or-refresh">
+						<input type="hidden" name="token" id="tokenId" value="3e57cdb2d477c51bb2faecd9ac212884">
+						<input type="hidden" name="id_product" value="2" class="product_page_product_id">
+						<input type="hidden" name="id_customization" value="0" class="product_customization_id">
+						<input type="hidden" name="qty" value="1">
+						<button class="btn btn-primary add-to-cart" data-button-action="add-to-cart" type="submit" >
+							<span>Añadir al carrito</span>
+						</button>
+					</form>
+				</div>
+					 
+		
+			
+		
+		
+	</div>
+</div>
+					</li>
+				
+							
+					<li class="product_item col-xs-12 col-sm-6 col-md-6 col-lg-4">
+						
+<div class="product-miniature js-product-miniature" data-id-product="3" data-id-product-attribute="64" itemscope itemtype="http://schema.org/Product">
+  <div class="thumbnail-container">
+    
+      <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=3&amp;id_product_attribute=64&amp;rewrite=printed-dress&amp;controller=product&amp;id_lang=3#/1-talla-s/15-color-verde" class="thumbnail product-thumbnail">
+        <img
+          src = "https://codezeel.com/prestashop/PRS04/PRS040080/img/p/3/1/31-home_default.jpg"
+          alt = "Accusantium doloremque"
+          data-full-size-image-url = "https://codezeel.com/prestashop/PRS04/PRS040080/img/p/3/1/31-large_default.jpg"
+        >
+		
+	<img class="fliper_image img-responsive" src="https://codezeel.com/prestashop/PRS04/PRS040080/img/p/3/2/32-home_default.jpg" data-full-size-image-url="https://codezeel.com/prestashop/PRS04/PRS040080/img/p/3/2/32-large_default.jpg" alt="" />
+
+      </a>
+    
+	
+		<a href="#" class="quick-view" data-link-action="quickview">
+			<i class="material-icons search">&#xE417;</i> Vista rápida
+		</a>
+	
+	
+	  <ul class="product-flags">
+				  <li class="new">Novedad</li>
+			  </ul>
+	
+	<div class="highlighted-informations hidden-sm-down">
+	  
+				  <div class="variant-links">
+      <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=3&amp;id_product_attribute=66&amp;rewrite=printed-dress&amp;controller=product&amp;id_lang=3#/1-talla-s/11-color-negro"
+       class="color"
+       title="Negro"
+       
+       style="background-color: #434A54"           ><span class="sr-only">Negro</span></a>
+      <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=3&amp;id_product_attribute=65&amp;rewrite=printed-dress&amp;controller=product&amp;id_lang=3#/1-talla-s/14-color-azul"
+       class="color"
+       title="Azul"
+       
+       style="background-color: #5D9CEC"           ><span class="sr-only">Azul</span></a>
+      <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=3&amp;id_product_attribute=67&amp;rewrite=printed-dress&amp;controller=product&amp;id_lang=3#/2-talla-m/15-color-verde"
+       class="color"
+       title="Verde"
+       
+       style="background-color: #A0D468"           ><span class="sr-only">Verde</span></a>
+    <span class="js-count count"></span>
+</div>
+			  
+	  
+	  
+		<span class="product-availability">
+		  						  <span class="product-available">
+			  <i class="material-icons">&#xE5CA;</i>
+						In stock
+			</span>
+		  		</span>
+	  
+	</div>				
+ </div>
+
+    <div class="product-description">
+      
+        <h3 class="h3 product-title" itemprop="name"><a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=3&amp;id_product_attribute=64&amp;rewrite=printed-dress&amp;controller=product&amp;id_lang=3#/1-talla-s/15-color-verde">Accusantium doloremque</a></h3 >
+      
+
+      
+                  <div class="product-price-and-shipping">
+            
+            
+
+            <span itemprop="price" class="price">110,00 $</span>
+
+            
+
+            
+          </div>
+              
+	  
+	  
+		
+		  <div class="product-detail" itemprop="description"><p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias.</p></div>
+		
+		
+							<div class="product-actions">
+					<form action="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=cart" method="post" class="add-to-cart-or-refresh">
+						<input type="hidden" name="token" id="tokenId" value="3e57cdb2d477c51bb2faecd9ac212884">
+						<input type="hidden" name="id_product" value="3" class="product_page_product_id">
+						<input type="hidden" name="id_customization" value="0" class="product_customization_id">
+						<input type="hidden" name="qty" value="1">
+						<button class="btn btn-primary add-to-cart" data-button-action="add-to-cart" type="submit" >
+							<span>Añadir al carrito</span>
+						</button>
+					</form>
+				</div>
+					 
+		
+			
+		
+		
+	</div>
+</div>
+					</li>
+				
+							
+					<li class="product_item col-xs-12 col-sm-6 col-md-6 col-lg-4">
+						
+<div class="product-miniature js-product-miniature" data-id-product="4" data-id-product-attribute="76" itemscope itemtype="http://schema.org/Product">
+  <div class="thumbnail-container">
+    
+      <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=4&amp;id_product_attribute=76&amp;rewrite=printed-dress&amp;controller=product&amp;id_lang=3#/1-talla-s/8-color-blanco" class="thumbnail product-thumbnail">
+        <img
+          src = "https://codezeel.com/prestashop/PRS04/PRS040080/img/p/3/7/37-home_default.jpg"
+          alt = "Voluptas assumenda"
+          data-full-size-image-url = "https://codezeel.com/prestashop/PRS04/PRS040080/img/p/3/7/37-large_default.jpg"
+        >
+		
+	<img class="fliper_image img-responsive" src="https://codezeel.com/prestashop/PRS04/PRS040080/img/p/3/8/38-home_default.jpg" data-full-size-image-url="https://codezeel.com/prestashop/PRS04/PRS040080/img/p/3/8/38-large_default.jpg" alt="" />
+
+      </a>
+    
+	
+		<a href="#" class="quick-view" data-link-action="quickview">
+			<i class="material-icons search">&#xE417;</i> Vista rápida
+		</a>
+	
+	
+	  <ul class="product-flags">
+				  <li class="new">Novedad</li>
+			  </ul>
+	
+	<div class="highlighted-informations hidden-sm-down">
+	  
+				  <div class="variant-links">
+      <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=4&amp;id_product_attribute=73&amp;rewrite=printed-dress&amp;controller=product&amp;id_lang=3#/2-talla-m/8-color-blanco"
+       class="color"
+       title="Blanco"
+       
+       style="background-color: #ffffff"           ><span class="sr-only">Blanco</span></a>
+      <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=4&amp;id_product_attribute=75&amp;rewrite=printed-dress&amp;controller=product&amp;id_lang=3#/2-talla-m/13-color-naranja"
+       class="color"
+       title="Naranja"
+       
+       style="background-color: #F39C11"           ><span class="sr-only">Naranja</span></a>
+      <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=4&amp;id_product_attribute=74&amp;rewrite=printed-dress&amp;controller=product&amp;id_lang=3#/2-talla-m/14-color-azul"
+       class="color"
+       title="Azul"
+       
+       style="background-color: #5D9CEC"           ><span class="sr-only">Azul</span></a>
+    <span class="js-count count"></span>
+</div>
+			  
+	  
+	  
+		<span class="product-availability">
+		  						  <span class="product-available">
+			  <i class="material-icons">&#xE5CA;</i>
+						In stock
+			</span>
+		  		</span>
+	  
+	</div>				
+ </div>
+
+    <div class="product-description">
+      
+        <h3 class="h3 product-title" itemprop="name"><a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=4&amp;id_product_attribute=76&amp;rewrite=printed-dress&amp;controller=product&amp;id_lang=3#/1-talla-s/8-color-blanco">Voluptas assumenda</a></h3 >
+      
+
+      
+                  <div class="product-price-and-shipping">
+            
+            
+
+            <span itemprop="price" class="price">78,00 $</span>
+
+            
+
+            
+          </div>
+              
+	  
+	  
+		
+		  <div class="product-detail" itemprop="description"><p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias.</p></div>
+		
+		
+							<div class="product-actions">
+					<form action="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=cart" method="post" class="add-to-cart-or-refresh">
+						<input type="hidden" name="token" id="tokenId" value="3e57cdb2d477c51bb2faecd9ac212884">
+						<input type="hidden" name="id_product" value="4" class="product_page_product_id">
+						<input type="hidden" name="id_customization" value="0" class="product_customization_id">
+						<input type="hidden" name="qty" value="1">
+						<button class="btn btn-primary add-to-cart" data-button-action="add-to-cart" type="submit" >
+							<span>Añadir al carrito</span>
+						</button>
+					</form>
+				</div>
+					 
+		
+			
+		
+		
+	</div>
+</div>
+					</li>
+				
+							
+					<li class="product_item col-xs-12 col-sm-6 col-md-6 col-lg-4">
+						
+<div class="product-miniature js-product-miniature" data-id-product="5" data-id-product-attribute="109" itemscope itemtype="http://schema.org/Product">
+  <div class="thumbnail-container">
+    
+      <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=5&amp;id_product_attribute=109&amp;rewrite=printed-summer-dress&amp;controller=product&amp;id_lang=3#/3-talla-l/14-color-azul/20-talla_de_calzado-37" class="thumbnail product-thumbnail">
+        <img
+          src = "https://codezeel.com/prestashop/PRS04/PRS040080/img/p/4/2/42-home_default.jpg"
+          alt = "Nostrud exercitation"
+          data-full-size-image-url = "https://codezeel.com/prestashop/PRS04/PRS040080/img/p/4/2/42-large_default.jpg"
+        >
+		
+	<img class="fliper_image img-responsive" src="https://codezeel.com/prestashop/PRS04/PRS040080/img/p/4/4/44-home_default.jpg" data-full-size-image-url="https://codezeel.com/prestashop/PRS04/PRS040080/img/p/4/4/44-large_default.jpg" alt="" />
+
+      </a>
+    
+	
+		<a href="#" class="quick-view" data-link-action="quickview">
+			<i class="material-icons search">&#xE417;</i> Vista rápida
+		</a>
+	
+	
+	  <ul class="product-flags">
+				  <li class="on-sale">¡En oferta!</li>
+				  <li class="new">Novedad</li>
+			  </ul>
+	
+	<div class="highlighted-informations hidden-sm-down">
+	  
+				  <div class="variant-links">
+      <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=5&amp;id_product_attribute=112&amp;rewrite=printed-summer-dress&amp;controller=product&amp;id_lang=3#/2-talla-m/14-color-azul/20-talla_de_calzado-37"
+       class="color"
+       title="Azul"
+       
+       style="background-color: #5D9CEC"           ><span class="sr-only">Azul</span></a>
+      <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=5&amp;id_product_attribute=110&amp;rewrite=printed-summer-dress&amp;controller=product&amp;id_lang=3#/3-talla-l/15-color-verde/20-talla_de_calzado-37"
+       class="color"
+       title="Verde"
+       
+       style="background-color: #A0D468"           ><span class="sr-only">Verde</span></a>
+      <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=5&amp;id_product_attribute=111&amp;rewrite=printed-summer-dress&amp;controller=product&amp;id_lang=3#/3-talla-l/16-color-amarillo/20-talla_de_calzado-37"
+       class="color"
+       title="Amarillo"
+       
+       style="background-color: #F1C40F"           ><span class="sr-only">Amarillo</span></a>
+    <span class="js-count count"></span>
+</div>
+			  
+	  
+	  
+		<span class="product-availability">
+		  						  <span class="product-available">
+			  <i class="material-icons">&#xE5CA;</i>
+						In stock
+			</span>
+		  		</span>
+	  
+	</div>				
+ </div>
+
+    <div class="product-description">
+      
+        <h3 class="h3 product-title" itemprop="name"><a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=5&amp;id_product_attribute=109&amp;rewrite=printed-summer-dress&amp;controller=product&amp;id_lang=3#/3-talla-l/14-color-azul/20-talla_de_calzado-37">Nostrud exercitation</a></h3 >
+      
+
+      
+                  <div class="product-price-and-shipping">
+                          
+
+              <span class="regular-price">98,00 $</span>
+                              <span class="discount-percentage">-5%</span>
+                          
+            
+
+            <span itemprop="price" class="price">93,10 $</span>
+
+            
+
+            
+          </div>
+              
+	  
+	  
+		
+		  <div class="product-detail" itemprop="description"><p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias.</p></div>
+		
+		
+							<div class="product-actions">
+					<form action="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=cart" method="post" class="add-to-cart-or-refresh">
+						<input type="hidden" name="token" id="tokenId" value="3e57cdb2d477c51bb2faecd9ac212884">
+						<input type="hidden" name="id_product" value="5" class="product_page_product_id">
+						<input type="hidden" name="id_customization" value="0" class="product_customization_id">
+						<input type="hidden" name="qty" value="1">
+						<button class="btn btn-primary add-to-cart" data-button-action="add-to-cart" type="submit" >
+							<span>Añadir al carrito</span>
+						</button>
+					</form>
+				</div>
+					 
+		
+			
+		
+		
+	</div>
+</div>
+					</li>
+				
+							
+					<li class="product_item col-xs-12 col-sm-6 col-md-6 col-lg-4">
+						
+<div class="product-miniature js-product-miniature" data-id-product="6" data-id-product-attribute="127" itemscope itemtype="http://schema.org/Product">
+  <div class="thumbnail-container">
+    
+      <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=6&amp;id_product_attribute=127&amp;rewrite=printed-summer-dress&amp;controller=product&amp;id_lang=3#/1-talla-s/8-color-blanco/22-talla_de_calzado-39" class="thumbnail product-thumbnail">
+        <img
+          src = "https://codezeel.com/prestashop/PRS04/PRS040080/img/p/4/8/48-home_default.jpg"
+          alt = "Commodi consequatur"
+          data-full-size-image-url = "https://codezeel.com/prestashop/PRS04/PRS040080/img/p/4/8/48-large_default.jpg"
+        >
+		
+	<img class="fliper_image img-responsive" src="https://codezeel.com/prestashop/PRS04/PRS040080/img/p/5/0/50-home_default.jpg" data-full-size-image-url="https://codezeel.com/prestashop/PRS04/PRS040080/img/p/5/0/50-large_default.jpg" alt="" />
+
+      </a>
+    
+	
+		<a href="#" class="quick-view" data-link-action="quickview">
+			<i class="material-icons search">&#xE417;</i> Vista rápida
+		</a>
+	
+	
+	  <ul class="product-flags">
+				  <li class="new">Novedad</li>
+			  </ul>
+	
+	<div class="highlighted-informations hidden-sm-down">
+	  
+				  <div class="variant-links">
+      <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=6&amp;id_product_attribute=121&amp;rewrite=printed-summer-dress&amp;controller=product&amp;id_lang=3#/2-talla-m/8-color-blanco/22-talla_de_calzado-39"
+       class="color"
+       title="Blanco"
+       
+       style="background-color: #ffffff"           ><span class="sr-only">Blanco</span></a>
+      <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=6&amp;id_product_attribute=122&amp;rewrite=printed-summer-dress&amp;controller=product&amp;id_lang=3#/2-talla-m/15-color-verde/22-talla_de_calzado-39"
+       class="color"
+       title="Verde"
+       
+       style="background-color: #A0D468"           ><span class="sr-only">Verde</span></a>
+      <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=6&amp;id_product_attribute=123&amp;rewrite=printed-summer-dress&amp;controller=product&amp;id_lang=3#/2-talla-m/16-color-amarillo/22-talla_de_calzado-39"
+       class="color"
+       title="Amarillo"
+       
+       style="background-color: #F1C40F"           ><span class="sr-only">Amarillo</span></a>
+    <span class="js-count count"></span>
+</div>
+			  
+	  
+	  
+		<span class="product-availability">
+		  						  <span class="product-available">
+			  <i class="material-icons">&#xE5CA;</i>
+						In stock
+			</span>
+		  		</span>
+	  
+	</div>				
+ </div>
+
+    <div class="product-description">
+      
+        <h3 class="h3 product-title" itemprop="name"><a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=6&amp;id_product_attribute=127&amp;rewrite=printed-summer-dress&amp;controller=product&amp;id_lang=3#/1-talla-s/8-color-blanco/22-talla_de_calzado-39">Commodi consequatur</a></h3 >
+      
+
+      
+                  <div class="product-price-and-shipping">
+            
+            
+
+            <span itemprop="price" class="price">85,00 $</span>
+
+            
+
+            
+          </div>
+              
+	  
+	  
+		
+		  <div class="product-detail" itemprop="description"><p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias.</p></div>
+		
+		
+							<div class="product-actions">
+					<form action="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=cart" method="post" class="add-to-cart-or-refresh">
+						<input type="hidden" name="token" id="tokenId" value="3e57cdb2d477c51bb2faecd9ac212884">
+						<input type="hidden" name="id_product" value="6" class="product_page_product_id">
+						<input type="hidden" name="id_customization" value="0" class="product_customization_id">
+						<input type="hidden" name="qty" value="1">
+						<button class="btn btn-primary add-to-cart" data-button-action="add-to-cart" type="submit" >
+							<span>Añadir al carrito</span>
+						</button>
+					</form>
+				</div>
+					 
+		
+			
+		
+		
+	</div>
+</div>
+					</li>
+				
+							
+					<li class="product_item col-xs-12 col-sm-6 col-md-6 col-lg-4">
+						
+<div class="product-miniature js-product-miniature" data-id-product="7" data-id-product-attribute="275" itemscope itemtype="http://schema.org/Product">
+  <div class="thumbnail-container">
+    
+      <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=7&amp;id_product_attribute=275&amp;rewrite=printed-chiffon-dress&amp;controller=product&amp;id_lang=3#/1-talla-s/15-color-verde" class="thumbnail product-thumbnail">
+        <img
+          src = "https://codezeel.com/prestashop/PRS04/PRS040080/img/p/5/5/55-home_default.jpg"
+          alt = "Praesentium voluptatum"
+          data-full-size-image-url = "https://codezeel.com/prestashop/PRS04/PRS040080/img/p/5/5/55-large_default.jpg"
+        >
+		
+	<img class="fliper_image img-responsive" src="https://codezeel.com/prestashop/PRS04/PRS040080/img/p/5/6/56-home_default.jpg" data-full-size-image-url="https://codezeel.com/prestashop/PRS04/PRS040080/img/p/5/6/56-large_default.jpg" alt="" />
+
+      </a>
+    
+	
+		<a href="#" class="quick-view" data-link-action="quickview">
+			<i class="material-icons search">&#xE417;</i> Vista rápida
+		</a>
+	
+	
+	  <ul class="product-flags">
+				  <li class="discount">Precio rebajado</li>
+				  <li class="new">Novedad</li>
+			  </ul>
+	
+	<div class="highlighted-informations hidden-sm-down">
+	  
+				  <div class="variant-links">
+      <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=7&amp;id_product_attribute=277&amp;rewrite=printed-chiffon-dress&amp;controller=product&amp;id_lang=3#/1-talla-s/5-color-gris"
+       class="color"
+       title="Gris"
+       
+       style="background-color: #AAB2BD"           ><span class="sr-only">Gris</span></a>
+      <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=7&amp;id_product_attribute=276&amp;rewrite=printed-chiffon-dress&amp;controller=product&amp;id_lang=3#/1-talla-s/14-color-azul"
+       class="color"
+       title="Azul"
+       
+       style="background-color: #5D9CEC"           ><span class="sr-only">Azul</span></a>
+      <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=7&amp;id_product_attribute=278&amp;rewrite=printed-chiffon-dress&amp;controller=product&amp;id_lang=3#/2-talla-m/15-color-verde"
+       class="color"
+       title="Verde"
+       
+       style="background-color: #A0D468"           ><span class="sr-only">Verde</span></a>
+    <span class="js-count count"></span>
+</div>
+			  
+	  
+	  
+		<span class="product-availability">
+		  						  <span class="product-available">
+			  <i class="material-icons">&#xE5CA;</i>
+						In stock
+			</span>
+		  		</span>
+	  
+	</div>				
+ </div>
+
+    <div class="product-description">
+      
+        <h3 class="h3 product-title" itemprop="name"><a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=7&amp;id_product_attribute=275&amp;rewrite=printed-chiffon-dress&amp;controller=product&amp;id_lang=3#/1-talla-s/15-color-verde">Praesentium voluptatum</a></h3 >
+      
+
+      
+                  <div class="product-price-and-shipping">
+                          
+
+              <span class="regular-price">79,00 $</span>
+                          
+            
+
+            <span itemprop="price" class="price">75,00 $</span>
+
+            
+
+            
+          </div>
+              
+	  
+	  
+		
+		  <div class="product-detail" itemprop="description"><p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias.</p></div>
+		
+		
+							<div class="product-actions">
+					<form action="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=cart" method="post" class="add-to-cart-or-refresh">
+						<input type="hidden" name="token" id="tokenId" value="3e57cdb2d477c51bb2faecd9ac212884">
+						<input type="hidden" name="id_product" value="7" class="product_page_product_id">
+						<input type="hidden" name="id_customization" value="0" class="product_customization_id">
+						<input type="hidden" name="qty" value="1">
+						<button class="btn btn-primary add-to-cart" data-button-action="add-to-cart" type="submit" >
+							<span>Añadir al carrito</span>
+						</button>
+					</form>
+				</div>
+					 
+		
+			
+		
+		
+	</div>
+</div>
+					</li>
+				
+							
+					<li class="product_item col-xs-12 col-sm-6 col-md-6 col-lg-4">
+						
+<div class="product-miniature js-product-miniature" data-id-product="8" data-id-product-attribute="284" itemscope itemtype="http://schema.org/Product">
+  <div class="thumbnail-container">
+    
+      <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=8&amp;id_product_attribute=284&amp;rewrite=faded-short-sleeves-tshirt&amp;controller=product&amp;id_lang=3#/1-talla-s/13-color-naranja" class="thumbnail product-thumbnail">
+        <img
+          src = "https://codezeel.com/prestashop/PRS04/PRS040080/img/p/6/1/61-home_default.jpg"
+          alt = "Voluptates repudiandae"
+          data-full-size-image-url = "https://codezeel.com/prestashop/PRS04/PRS040080/img/p/6/1/61-large_default.jpg"
+        >
+		
+	<img class="fliper_image img-responsive" src="https://codezeel.com/prestashop/PRS04/PRS040080/img/p/6/2/62-home_default.jpg" data-full-size-image-url="https://codezeel.com/prestashop/PRS04/PRS040080/img/p/6/2/62-large_default.jpg" alt="" />
+
+      </a>
+    
+	
+		<a href="#" class="quick-view" data-link-action="quickview">
+			<i class="material-icons search">&#xE417;</i> Vista rápida
+		</a>
+	
+	
+	  <ul class="product-flags">
+				  <li class="new">Novedad</li>
+			  </ul>
+	
+	<div class="highlighted-informations hidden-sm-down">
+	  
+				  <div class="variant-links">
+      <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=8&amp;id_product_attribute=287&amp;rewrite=faded-short-sleeves-tshirt&amp;controller=product&amp;id_lang=3#/2-talla-m/13-color-naranja"
+       class="color"
+       title="Naranja"
+       
+       style="background-color: #F39C11"           ><span class="sr-only">Naranja</span></a>
+      <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=8&amp;id_product_attribute=286&amp;rewrite=faded-short-sleeves-tshirt&amp;controller=product&amp;id_lang=3#/1-talla-s/14-color-azul"
+       class="color"
+       title="Azul"
+       
+       style="background-color: #5D9CEC"           ><span class="sr-only">Azul</span></a>
+      <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=8&amp;id_product_attribute=285&amp;rewrite=faded-short-sleeves-tshirt&amp;controller=product&amp;id_lang=3#/1-talla-s/16-color-amarillo"
+       class="color"
+       title="Amarillo"
+       
+       style="background-color: #F1C40F"           ><span class="sr-only">Amarillo</span></a>
+    <span class="js-count count"></span>
+</div>
+			  
+	  
+	  
+		<span class="product-availability">
+		  						  <span class="product-available">
+			  <i class="material-icons">&#xE5CA;</i>
+						In stock
+			</span>
+		  		</span>
+	  
+	</div>				
+ </div>
+
+    <div class="product-description">
+      
+        <h3 class="h3 product-title" itemprop="name"><a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=8&amp;id_product_attribute=284&amp;rewrite=faded-short-sleeves-tshirt&amp;controller=product&amp;id_lang=3#/1-talla-s/13-color-naranja">Voluptates repudiandae</a></h3 >
+      
+
+      
+                  <div class="product-price-and-shipping">
+            
+            
+
+            <span itemprop="price" class="price">105,00 $</span>
+
+            
+
+            
+          </div>
+              
+	  
+	  
+		
+		  <div class="product-detail" itemprop="description"><p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi.</p></div>
+		
+		
+							<div class="product-actions">
+					<form action="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=cart" method="post" class="add-to-cart-or-refresh">
+						<input type="hidden" name="token" id="tokenId" value="3e57cdb2d477c51bb2faecd9ac212884">
+						<input type="hidden" name="id_product" value="8" class="product_page_product_id">
+						<input type="hidden" name="id_customization" value="0" class="product_customization_id">
+						<input type="hidden" name="qty" value="1">
+						<button class="btn btn-primary add-to-cart" data-button-action="add-to-cart" type="submit" >
+							<span>Añadir al carrito</span>
+						</button>
+					</form>
+				</div>
+					 
+		
+			
+		
+		
+	</div>
+</div>
+					</li>
+				
+							
+					<li class="product_item col-xs-12 col-sm-6 col-md-6 col-lg-4">
+						
+<div class="product-miniature js-product-miniature" data-id-product="9" data-id-product-attribute="169" itemscope itemtype="http://schema.org/Product">
+  <div class="thumbnail-container">
+    
+      <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=9&amp;id_product_attribute=169&amp;rewrite=blouse&amp;controller=product&amp;id_lang=3#/2-talla-m/14-color-azul" class="thumbnail product-thumbnail">
+        <img
+          src = "https://codezeel.com/prestashop/PRS04/PRS040080/img/p/6/7/67-home_default.jpg"
+          alt = "Laborum eveniet"
+          data-full-size-image-url = "https://codezeel.com/prestashop/PRS04/PRS040080/img/p/6/7/67-large_default.jpg"
+        >
+		
+	<img class="fliper_image img-responsive" src="https://codezeel.com/prestashop/PRS04/PRS040080/img/p/6/8/68-home_default.jpg" data-full-size-image-url="https://codezeel.com/prestashop/PRS04/PRS040080/img/p/6/8/68-large_default.jpg" alt="" />
+
+      </a>
+    
+	
+		<a href="#" class="quick-view" data-link-action="quickview">
+			<i class="material-icons search">&#xE417;</i> Vista rápida
+		</a>
+	
+	
+	  <ul class="product-flags">
+				  <li class="on-sale">¡En oferta!</li>
+				  <li class="new">Novedad</li>
+			  </ul>
+	
+	<div class="highlighted-informations hidden-sm-down">
+	  
+				  <div class="variant-links">
+      <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=9&amp;id_product_attribute=170&amp;rewrite=blouse&amp;controller=product&amp;id_lang=3#/2-talla-m/13-color-naranja"
+       class="color"
+       title="Naranja"
+       
+       style="background-color: #F39C11"           ><span class="sr-only">Naranja</span></a>
+      <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=9&amp;id_product_attribute=169&amp;rewrite=blouse&amp;controller=product&amp;id_lang=3#/2-talla-m/14-color-azul"
+       class="color"
+       title="Azul"
+       
+       style="background-color: #5D9CEC"           ><span class="sr-only">Azul</span></a>
+      <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=9&amp;id_product_attribute=171&amp;rewrite=blouse&amp;controller=product&amp;id_lang=3#/2-talla-m/15-color-verde"
+       class="color"
+       title="Verde"
+       
+       style="background-color: #A0D468"           ><span class="sr-only">Verde</span></a>
+    <span class="js-count count"></span>
+</div>
+			  
+	  
+	  
+		<span class="product-availability">
+		  						  <span class="product-available">
+			  <i class="material-icons">&#xE5CA;</i>
+						In stock
+			</span>
+		  		</span>
+	  
+	</div>				
+ </div>
+
+    <div class="product-description">
+      
+        <h3 class="h3 product-title" itemprop="name"><a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_product=9&amp;id_product_attribute=169&amp;rewrite=blouse&amp;controller=product&amp;id_lang=3#/2-talla-m/14-color-azul">Laborum eveniet</a></h3 >
+      
+
+      
+                  <div class="product-price-and-shipping">
+                          
+
+              <span class="regular-price">99,00 $</span>
+                              <span class="discount-percentage">-5%</span>
+                          
+            
+
+            <span itemprop="price" class="price">94,05 $</span>
+
+            
+
+            
+          </div>
+              
+	  
+	  
+		
+		  <div class="product-detail" itemprop="description"><p>Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum.</p></div>
+		
+		
+							<div class="product-actions">
+					<form action="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=cart" method="post" class="add-to-cart-or-refresh">
+						<input type="hidden" name="token" id="tokenId" value="3e57cdb2d477c51bb2faecd9ac212884">
+						<input type="hidden" name="id_product" value="9" class="product_page_product_id">
+						<input type="hidden" name="id_customization" value="0" class="product_customization_id">
+						<input type="hidden" name="qty" value="1">
+						<button class="btn btn-primary add-to-cart" data-button-action="add-to-cart" type="submit" >
+							<span>Añadir al carrito</span>
+						</button>
+					</form>
+				</div>
+					 
+		
+			
+		
+		
+	</div>
+</div>
+					</li>
+				
+					</ul>
+	</div>
+  
+
+	
+		<nav class="pagination">
+  <div class="col-md-4">
+    
+   		Mostrando 1-9 de 15 artículo(s)
+    
+  </div>
+  <div class="col-md-8">
+    
+		<ul class="page-list clearfix text-xs-right">
+		            
+			<li >
+			  				<a
+				  rel="prev"
+				  href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;page=1"
+				  class="previous disabled js-search-link"
+				>
+				  					<i class="fa fa-long-arrow-left"></i>
+				  				</a>
+			  			</li>
+		            
+			<li  class="current" >
+			  				<a
+				  rel="nofollow"
+				  href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;page=1"
+				  class="disabled js-search-link"
+				>
+				  					1
+				  				</a>
+			  			</li>
+		            
+			<li >
+			  				<a
+				  rel="nofollow"
+				  href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;page=2"
+				  class="js-search-link"
+				>
+				  					2
+				  				</a>
+			  			</li>
+		            
+			<li >
+			  				<a
+				  rel="next"
+				  href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=category&amp;id_category=4&amp;id_lang=3&amp;page=2"
+				  class="next js-search-link"
+				>
+				  					<i class="fa fa-long-arrow-right"></i>
+				  				</a>
+			  			</li>
+		  		</ul>
+ 	
+  </div>
+
+</nav>
+	
+
+	<!--<div class="hidden-md-up text-xs-right up">
+		<a href="#header" class="btn btn-secondary">
+      		Volver arriba
+			<i class="material-icons">&#xE316;</i>
+		</a>
+	</div>-->
+</div>
+          
+        </div>
+
+        <div id="js-product-list-bottom">
+          
+            <div id="js-product-list-bottom"></div>
+          
+        </div>
+
+          </section>
+
+  </section>
+
+    
+  </div>
+
+
+			  
+		  </div>
+        </div>
+
+      </section>
+
+      <footer id="footer">
+        
+          <div class="footer-before">
+	<div class="container">
+		
+			
+		
+	</div>
+</div>
+<div class="footer-container">
+  <div class="container">
+    <div class="row footer">
+      	
+	  		
+<div id="block_myaccount_infos" class="col-md-2 links wrapper">
+  <h3 class="myaccount-title hidden-sm-down">
+    <a class="text-uppercase" href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=my-account" rel="nofollow">
+      Su cuenta
+    </a>
+  </h3>
+  <div class="title clearfix hidden-md-up" data-target="#footer_account_list" data-toggle="collapse">
+    <span class="h3">Su cuenta</span>
+    <span class="pull-xs-right">
+      <span class="navbar-toggler collapse-icons">
+        <i class="fa-icon add"></i>
+		<i class="fa-icon remove"></i>
+      </span>
+    </span>
+  </div>
+  <ul class="account-list collapse" id="footer_account_list">
+            <li>
+          <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=addresses" title="Direcciones" rel="nofollow">
+            Direcciones
+          </a>
+        </li>
+            <li>
+          <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=order-slip" title="Facturas por abono" rel="nofollow">
+            Facturas por abono
+          </a>
+        </li>
+            <li>
+          <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=identity" title="Información personal" rel="nofollow">
+            Información personal
+          </a>
+        </li>
+            <li>
+          <a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=history" title="Pedidos" rel="nofollow">
+            Pedidos
+          </a>
+        </li>
+        
+	</ul>
+</div>
+<div class="col-md-4 links block">
+      <h3 class="h3 hidden-md-down">Products</h3>
+            <div class="title h3 block_title hidden-lg-up" data-target="#footer_sub_menu_70512" data-toggle="collapse">
+        <span class="">Products</span>
+        <span class="pull-xs-right">
+          <span class="navbar-toggler collapse-icons">
+            <i class="fa-icon add"></i>
+            <i class="fa-icon remove"></i>
+          </span>
+        </span>
+      </div>
+      <ul id="footer_sub_menu_70512" class="collapse block_content">
+                  <li>
+            <a
+                id="link-product-page-prices-drop-1"
+                class="cms-page-link"
+                href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=prices-drop"
+                title="Productos en oferta">
+              Ofertas
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-product-page-new-products-1"
+                class="cms-page-link"
+                href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=new-products"
+                title="Novedades">
+              Novedades
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-product-page-best-sales-1"
+                class="cms-page-link"
+                href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=best-sales"
+                title="Los más vendidos">
+              Los más vendidos
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-static-page-contact-1"
+                class="cms-page-link"
+                href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=contact"
+                title="Contáctenos">
+              Contáctenos
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-static-page-sitemap-1"
+                class="cms-page-link"
+                href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=sitemap"
+                title="¿Perdido? Encuentre lo que está buscando">
+              Mapa del sitio
+            </a>
+          </li>
+              </ul>
+</div>
+<div class="col-md-4 links block">
+      <h3 class="h3 hidden-md-down">Our company</h3>
+            <div class="title h3 block_title hidden-lg-up" data-target="#footer_sub_menu_93576" data-toggle="collapse">
+        <span class="">Our company</span>
+        <span class="pull-xs-right">
+          <span class="navbar-toggler collapse-icons">
+            <i class="fa-icon add"></i>
+            <i class="fa-icon remove"></i>
+          </span>
+        </span>
+      </div>
+      <ul id="footer_sub_menu_93576" class="collapse block_content">
+                  <li>
+            <a
+                id="link-cms-page-1-2"
+                class="cms-page-link"
+                href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_cms=1&amp;controller=cms&amp;id_lang=3"
+                title="Our terms and conditions of delivery">
+              Delivery
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-cms-page-2-2"
+                class="cms-page-link"
+                href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_cms=2&amp;controller=cms&amp;id_lang=3"
+                title="Legal notice">
+              Legal Notice
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-cms-page-3-2"
+                class="cms-page-link"
+                href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_cms=3&amp;controller=cms&amp;id_lang=3"
+                title="Our terms and conditions of use">
+              Terms and conditions of use
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-cms-page-4-2"
+                class="cms-page-link"
+                href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_cms=4&amp;controller=cms&amp;id_lang=3"
+                title="Learn more about us">
+              About us
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-cms-page-5-2"
+                class="cms-page-link"
+                href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_cms=5&amp;controller=cms&amp;id_lang=3"
+                title="Our secure payment method">
+              Secure payment
+            </a>
+          </li>
+              </ul>
+</div>
+
+<div class="block-contact col-md-4 links wrapper">
+
+		<h3 class="text-uppercase block-contact-title hidden-sm-down"><a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?controller=stores">Store Information</a></h3>
+      
+		<div class="title clearfix hidden-md-up" data-target="#block-contact_list" data-toggle="collapse">
+		  <span class="h3">Store information</span>
+		  <span class="pull-xs-right">
+			  <span class="navbar-toggler collapse-icons">
+				<i class="fa-icon add"></i>
+				<i class="fa-icon remove"></i>
+			  </span>
+		  </span>
+		</div>
+
+	   <ul id="block-contact_list" class="collapse">
+	  <li>
+	  	<i class="fa fa-map-marker"></i>
+	  	<span>Fashion - Cloth Store<br />United States</span>
+      </li>
+	          <li>
+		<i class="fa fa-phone"></i>
+        
+        <span>888-888-8888</span>
+		</li>
+                    <li>
+		<i class="fa fa-fax"></i>
+        
+        <span>123456</span>
+		</li>
+                    <li>
+		<i class="fa fa-envelope-o"></i>
+        
+        <span>sales@yourcompany.com</span>
+		</li>
+      	  </ul>
+  
+</div>
+		
+    </div>      
+    </div>
+  </div>
+</div>
+
+<div class="footer-after">
+  <div class="container">
+  
+        
+
+  <div class="block-social">
+    <ul>
+              <li class="facebook"><a href="#" target="_blank"><span>Facebook</span></a></li>
+              <li class="twitter"><a href="#" target="_blank"><span>Twitter</span></a></li>
+              <li class="youtube"><a href="#" target="_blank"><span>YouTube</span></a></li>
+              <li class="googleplus"><a href="#" target="_blank"><span>Google+</span></a></li>
+              <li class="pinterest"><a href="#" target="_blank"><span>Pinterest</span></a></li>
+              <li class="vimeo"><a href="#" target="_blank"><span>Vimeo</span></a></li>
+              <li class="instagram"><a href="#" target="_blank"><span>Instagram</span></a></li>
+          </ul>
+  </div>
+
+
+<!-- Block payment logo module -->
+<div id="payement_logo_block_left" class="payement_logo_block">
+	<a href="https://codezeel.com/prestashop/PRS04/PRS040080/index.php?id_cms=1&amp;controller=cms&amp;id_lang=3">
+		<img src="https://codezeel.com/prestashop/PRS04/PRS040080/modules/cz_blockpaymentlogo/views/img/visa.png" alt="visa" width="35" height="21" />
+		<img src="https://codezeel.com/prestashop/PRS04/PRS040080/modules/cz_blockpaymentlogo/views/img/discover.png" alt="discover" width="35" height="21" />
+		
+		
+		<img src="https://codezeel.com/prestashop/PRS04/PRS040080/modules/cz_blockpaymentlogo/views/img/paypal.png" alt="paypal" width="35" height="21" />
+		
+		<img src="https://codezeel.com/prestashop/PRS04/PRS040080/modules/cz_blockpaymentlogo/views/img/master_card.png" alt="master_card" width="35" height="21" />
+		
+		
+	</a>
+</div>
+<!-- /Block payment logo module -->
+<!-- Block links module -->
+<div id="links_block_left" class="col-md-4 links block">
+	<h3 class="h3 title_block">
+					<a href="#" title="Categories">Categories</a>
+			</h3>	
+	<ul id="cz_blocklink" class="block_content">
+			 
+			<li>
+				<a href="#" title="Kurtas &amp; Kurtis" >Kurtas &amp; Kurtis</a></li>
+					 
+			<li>
+				<a href="#" title="Lehenga Choli" >Lehenga Choli</a></li>
+					 
+			<li>
+				<a href="#" title="Dress Material" >Dress Material</a></li>
+					 
+			<li>
+				<a href="#" title="Ethnic Wear" >Ethnic Wear</a></li>
+					 
+			<li>
+				<a href="#" title="Sarees" >Sarees</a></li>
+					 
+			<li>
+				<a href="#" title="Anarkali Suits" >Anarkali Suits</a></li>
+					 
+			<li>
+				<a href="#" title="Fresh arrivals" >Fresh arrivals</a></li>
+				</ul>
+</div>
+<!-- /Block links module -->
+
+    
+	<div class="copyright">
+	  
+		  <a class="_blank" href="http://www.prestashop.com" target="_blank">
+			© 2018 - Software Ecommerce desarrollado por PrestaShop™
+		  </a>
+	  
+	</div>
+  </div>
+</div>
+
+<a class="top_button" href="#" style="">
+	<i class="fa fa-angle-up" aria-hidden="true"></i>
+</a>
+        
+      </footer>
+
+    </main>
+
+    
+        <script type="text/javascript" src="https://codezeel.com/prestashop/PRS04/PRS040080/themes/Fashion/assets/cache/bottom-5f1f8e.js" ></script>
+
+
+    
+
+    
+    	
+    
+  </body>
+
+</html>
